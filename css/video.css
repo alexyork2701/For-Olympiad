@@ -1,0 +1,46 @@
+.video-n {
+    color:white;
+}
+.video {
+    padding: 20px;
+}
+#disc {
+    position: absolute;
+    width: 400px;
+    font-family: arial;
+    top: 4.5em;
+    right: 0.5em;
+    font-size: 2em;
+}
+#disc img {
+    position: absolute;
+    right:430px;
+    top:0.9em;
+}
+#disc2 {
+    position: absolute;
+    width: 400px;
+    font-family: arial;
+    top: 12em;
+    right: 0.5em;
+    font-size: 2em;
+}
+#disc2 img {
+    position: absolute;
+    right:430px;
+    top:2.9em;
+}
+
+#disc3 {
+    position: absolute;
+    width: 400px;
+    font-family: arial;
+    bottom:4em;
+    right: 0.5em;
+    font-size: 2em;
+}
+#disc3 img {
+    position: absolute;
+    right:430px;
+    bottom:0.2em;
+}

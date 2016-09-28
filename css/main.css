@@ -1,0 +1,77 @@
+.inside-content {
+    padding:25px;
+    
+}
+#first-new {
+    font-size: 1.3em;
+    width: 700px;
+    position: absolute;
+    right: 35px;
+    top: 120px;
+    border-left: 1px solid #ccc;
+    margin-left: 30px;
+    padding-left: 30px;
+}
+#scale {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+#scale:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    -webkit-transition:0.5s;
+    transition: 0.5s;
+}
+#second-new {
+    font-size: 1.3em;
+    width: 700px;
+    position: absolute;
+    right: 35px;
+    top: 470px;
+    border-left: 1px solid #ccc;
+    margin-left: 30px;
+    padding-left: 30px;
+}
+#third-new {
+    font-size: 1.2em;
+    width: 700px;
+    position: absolute;
+    right: 35px;
+    top: 800px;
+    border-left: 1px solid #ccc;
+    margin-left: 30px;
+    padding-left: 30px;
+}
+#four-new {
+    font-size: 1.3em;
+    width: 700px;
+    position: absolute;
+    right: 35px;
+    top: 1150px;
+    border-left: 1px solid #ccc;
+    margin-left: 30px;
+    padding-left: 30px;
+}
+#five-new {
+    font-size: 1.3em;
+    width: 700px;
+    position: absolute;
+    border-left: 1px solid #ccc;
+    margin-left: 30px;
+    padding-left: 30px;
+    right: 35px;
+    top: 1510px;
+}
+h1 {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.night {
+    color : white;
+}
+.night h1 {
+    width: 100%;
+    margin-bottom: 20px ;
+}
